@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,8CAA2C,CAC9C","file":"static/css/main.4d8b3db8.css","sourcesContent":["body{\n    background-image: url(\"images/bgmain.jpg\");\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
